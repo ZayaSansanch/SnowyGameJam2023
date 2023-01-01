@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This repository for https://itch.io/jam/snowy-gamejam, and all code created to the jam, 
+This repository for https://itch.io/jam/snowy-gamejam, and all code created to the jam.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -10,4 +10,4 @@ This repository for https://itch.io/jam/snowy-gamejam, and all code created to t
 
 ## Reporting a Vulnerability
 
-You can write about vulnerabilities to isues
+You can write about vulnerabilities to isues.
