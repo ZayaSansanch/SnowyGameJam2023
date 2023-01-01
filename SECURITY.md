@@ -10,4 +10,4 @@ This repository for https://itch.io/jam/snowy-gamejam, and all code created to t
 
 ## Reporting a Vulnerability
 
-You can write about vulnerabilities to isues.
+You can write about vulnerabilities in issue https://github.com/LeviiLovie/SnowyGameJam2023/issues/1.
