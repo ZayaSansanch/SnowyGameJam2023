@@ -1,0 +1,33 @@
+* Topic: ""
+
+- Ideas:
+  - First:
+    * Somethink
+  - Second:
+    * Somethink
+  - Third:
+    8 Somethink
+ 
+ * Result idea: First
+
+* Jobs:
+  - First:
+    [ ] Somethink
+    [ ] Somethink esle
+    - TODO
+      [ ] Init
+      [ ] Draw textures
+
+  * Second:
+    [ ] Somethink
+    [ ] Somethink esle
+    - TODO
+      [ ] Init
+      [ ] Draw textures
+
+  * Third:
+    [ ] Somethink
+    [ ] Somethink esle
+    - TODO
+      [ ] Init
+      [ ] Draw textures
