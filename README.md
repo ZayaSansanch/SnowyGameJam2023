@@ -3,7 +3,18 @@ So, my code of https://itch.io/jam/snowy-gamejam
 
 ## Dev list
 - Topic: ""
+
 - Ideas:
+  - First:
+    - Somethink
+  - Second:
+    - Somethink
+  - Third:
+    - Somethink
+ 
+ - Result idea: First
+
+- Jobs:
   - First:
     - [ ] Somethink
     - [ ] Somethink esle
