@@ -6,7 +6,7 @@
   - Second:
     * Somethink
   - Third:
-    8 Somethink
+    * Somethink
  
  * Result idea: First
 
