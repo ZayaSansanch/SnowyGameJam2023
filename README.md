@@ -5,22 +5,22 @@ So, my code of https://itch.io/jam/snowy-gamejam
 - Topic: ""
 - Ideas:
   - First:
-    - Somethink
-    - Somethink esle
+    - [x] Somethink
+    - [x] Somethink esle
     - TODO
-      - Init
-      - Draw textures
+      - [x] Init
+      - [x] Draw textures
 
   - Second:
-    - Somethink
-    - Somethink esle
+    - [x] Somethink
+    - [x] Somethink esle
     - TODO
-      - Init
-      - Draw textures
+      - [x] Init
+      - [x] Draw textures
 
   - Third:
-    - Somethink
-    - Somethink esle
+    - [x] Somethink
+    - [x] Somethink esle
     - TODO
-      - Init
-      - Draw textures
+      - [x] Init
+      - [x] Draw textures
