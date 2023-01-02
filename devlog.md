@@ -9,8 +9,7 @@
 
 - Jobs:
   - Draw:
-    [ ] Potato: all;
-    [ ] Carrot: all;
-    [ ] Cucumbers: all;
-    [ ] Polka Dots: all;
-    [ ] Peering;
+    - [ ] Potato: all
+    - [ ] Carrot: all
+    - [ ] Cucumbers: all
+    - [ ] Polka Dots: all
